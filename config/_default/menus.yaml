@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 3227d45d-07d6-4c28-95d5-3e273b9d9f6f
+  name: Online Course
+  pageRef: /external-resources/online-course_3227d45d-07d6-4c28-95d5-3e273b9d9f6f
+  weight: 10
