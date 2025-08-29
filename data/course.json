@@ -39,9 +39,10 @@
   },
   "learning_resource_types": [
     "Lecture Videos",
-    "Recitation Videos",
+    "Problem-solving Videos",
     "Problem Sets with Solutions"
   ],
   "site_uid": "c01ee566-8ad3-42e3-a338-df6f958dd253",
-  "site_short_id": "15.053x-spring-2021"
+  "site_short_id": "15.053x-spring-2021",
+  "site_url_path": "courses/15-053x-optimization-methods-in-business-analytics-summer-2021"
 }
